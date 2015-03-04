@@ -23,7 +23,7 @@ public class MainActivity extends ActionBarActivity {
 
         ReminderView tdv = new ReminderView(getApplicationContext(), testReminder);
         ListView lv = (ListView)findViewById(R.id.main_menu_list);
-        lv.addView(tdv);yyayaayayaya
+        lv.addView(tdv);
     }
 
     @Override
